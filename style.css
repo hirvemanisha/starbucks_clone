@@ -36,7 +36,7 @@ img{
     height: auto;
     background-color: #fff;
     padding: 20px;
-    box-shadow: 0 1px 3px rgb(0 0 0/ 10%),
+    box-shadow: 0 1px 3px rgb(0 0 0/ 10%), /* shadow use to define colore*/
     0 2px 2px rgb(0 0 0 / 6%),
         0 0 2px rgb(0 0 0 / 7%);
 
